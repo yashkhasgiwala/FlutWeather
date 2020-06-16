@@ -1,2 +1,2 @@
 WEATHER APP FOR GLOBAL CITIES
-![APP VIDEO](Flut Weather.mp4)
+![APP VIDEO](https://github.com/yashkhasgiwala/images/blob/master/Flut%20Weather.mp4)
